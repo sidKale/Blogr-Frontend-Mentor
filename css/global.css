@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@600&family=Ubuntu&display=swap");
+
+:root {
+  --navBgColor: linear-gradient(90deg, #ff8f70 0%, #ff3d54 100%);
+  --footerBgColor: #25252d;
+  --primaryHeadingColor: #13274f;
+  --secondaryBgColor: #fffafa;
+  --primaryTextColor: #4b5862;
+}
