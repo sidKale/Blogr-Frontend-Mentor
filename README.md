@@ -7,5 +7,5 @@ live site: https://blogr-frontendmentor-challenge.netlify.app/
 github url: https://github.com/sidKale/Blogr-Frontend-Mentor
 
 #Built with
-  • Html
-  •Css
+   • Html
+   • Css
