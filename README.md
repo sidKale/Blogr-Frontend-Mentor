@@ -2,13 +2,13 @@
 
 Solution for Blogr landing page challenge by Frontend Mentor
 
-#urls
+# urls
 
 live site: https://blogr-frontendmentor-challenge.netlify.app/
 
 github url: https://github.com/sidKale/Blogr-Frontend-Mentor
 
-#Built with
+# Built with
 
    • Html
    
